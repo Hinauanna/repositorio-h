@@ -1,3 +1,4 @@
+#primeira versao
 while True:
     print("Chamando...\nAtender?\n")
     x = int(input("1-sim 2-não\n"))
